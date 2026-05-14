@@ -6,4 +6,4 @@ This is the source code for our paper: **Automated Spatial-Temporal Graph Neural
 
 > 图神经网络（GNN）因能够建模骨骼图中关节点之间的时空关系，在人体动作识别（HAR）任务中引起了广泛关注。然而，现有方法通常存在计算开销高、推理延迟大的问题，尤其是在边缘设备等资源受限平台上。为解决这一问题，我们提出了 Edge-STGNN，一个面向速度优化的神经架构搜索（NAS）框架，用于自动化设计适合边缘设备上动作识别的时空图神经网络（STGNN）。具体而言，Edge-STGNN 定义了一个搜索空间，包含多种时间卷积层、注意力机制和网络深度选项。基于该搜索空间，它采用单路径训练方式构建超网络。随后，应用基于进化算法的搜索策略来识别最优架构。此外，Edge-STGNN 集成了一个高效的速度预测器以减少评估时间，并采用小规模代理数据集来降低搜索成本。在多个数据集和边缘设备上的全面实验表明，Edge-STGNN 能够有效识别出参数更少、计算复杂度更低、推理速度更快且保持可接受识别精度的架构。通过引入速度约束，Edge-STGNN 还能根据具体应用需求在精度与速度之间实现灵活权衡。例如，在 NTU RGB+D 60 xview60 基准上，与所有报告了速度的基线方法相比，Edge-STGNN 在精度保持 ±1% 范围内的同时，实现了 2.4 倍到 9.4 倍的推理加速。
 
-This work will be published by IEEE Internet of Things Journal.
+This work will be published by IEEE Internet of Things Journal. Click [here](https://doi.org/10.1109/JIOT.2026.3692679) for our paper.
