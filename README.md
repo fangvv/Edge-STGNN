@@ -21,4 +21,4 @@ This is the source code for our paper: **Automated Spatial-Temporal Graph Neural
 	}
 
 
-This work will be published by IEEE Internet of Things Journal. Click [here](https://doi.org/10.1109/JIOT.2026.3692679) for our paper.
+This work will be published by IEEE Internet of Things Journal. Click [here](https://doi.org/10.1109/JIOT.2026.3692679) for our paper. Source code and data will be made available on request.
