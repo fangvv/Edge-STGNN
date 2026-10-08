@@ -15,12 +15,12 @@ This is the source code for our paper: **Automated Spatial-Temporal Graph Neural
 	journal={IEEE Internet of Things Journal}, 
 	title={Automated Spatial-Temporal Graph Neural Network Search for Skeleton-based Human Action Recognition on Edge Devices}, 
 	year={2026},
-	volume={},
-	number={},
-	pages={1-1},
+	volume={13},
+	number={14},
+	pages={32391-32404},
 	keywords={Modeling;Accuracy;Computer architecture;Architecture;Skeleton;Human activity recognition;Design methodology;Neural architecture search;Hardware;Internet of Things;Graph neural networks;neural architecture search;human activity recognition;edge computing},
 	doi={10.1109/JIOT.2026.3692679}
 	}
 
 
-This work will be published by IEEE Internet of Things Journal. Click [here](https://doi.org/10.1109/JIOT.2026.3692679) for our paper. Source code and data will be made available on request.
+This work has been published by IEEE Internet of Things Journal (vol. 13, no. 14, pp. 32391-32404, 2026). Click [here](https://doi.org/10.1109/JIOT.2026.3692679) for our paper. Source code and data will be made available on request.
